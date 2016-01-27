@@ -1,0 +1,19 @@
+There are three seating categories at a stadium. 
+For a softball game, Class A seats cost $15, Class B seats cost $12, and Class C seats cost $9. 
+Write a program that asks how many tickets for each class of seats were sold, then displays the amount of income generated from ticket sales. 
+Format your dollar amount in a fixed-point notation with two decimal points and make sure the decimal point is always displayed.
+
+-Variables needed
+	classASeatCost - $15
+	classBSeatCost - $12
+	classCSeatCost - $9
+	ticketsASold
+	ticketsBSold
+	ticketsCSold
+	incomeA
+	incomeB
+	incomeC
+
+-Systems 
+	Need to format output with fixed decimal notation
+	Need to format output to align columns and left/right align
